@@ -1,0 +1,106 @@
+.b {
+    background-color: #201313;
+}
+
+h1 {
+    color: #FAF9F9;
+    text-align: left;
+    justify-self: center;
+    font-family: "JetBrains Mono", monospace;
+    font-weight: 700px;
+    font-style: normal;
+    font-variant: normal;
+    font-kerning: auto;
+    font-optical-sizing: auto;
+    font-stretch: 100%;
+    font-variation-settings: normal;
+    font-feature-settings: normal;
+    text-transform: none;
+    text-decoration: none;
+    font-size: 50px;
+}
+
+p {
+    color: #FAF9F9;
+    text-align: left;
+    justify-self: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.d {
+    margin-top: 100px;
+}
+.btn {
+    background-color: #201313;
+    color: #FAF9F9;
+    width: 120px;
+    height: 50px;
+    border-radius: 30px;
+
+}
+
+h2 {
+    color: #FAF9F9;
+    text-align: left;
+    justify-self: center;
+    font-family: "JetBrains Mono", monospace;
+    font-weight: 500px;
+    font-style: normal;
+    font-variant: normal;
+    font-kerning: auto;
+    font-optical-sizing: auto;
+    font-stretch: 50%;
+    font-variation-settings: normal;
+    font-feature-settings: normal;
+    text-transform: none;
+    text-decoration: none;
+    font-size: 40px; 
+}
+.r {
+    color: #FAF9F9;
+    text-align: left;
+    justify-self: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+.t {
+    color: #FAF9F9;
+    text-align: left;
+    justify-self: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.e {
+    color: #FAF9F9;
+    text-align: left;
+    justify-self: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.i {
+    color: #FAF9F9;
+    text-align: left;
+    justify-self: center;
+    font-family: "JetBrains Mono", monospace;
+    font-weight: 100px;
+    font-style: normal;
+    font-variant: normal;
+    font-kerning: auto;
+    font-optical-sizing: auto;
+    font-stretch: 40%;
+    font-variation-settings: normal;
+    font-feature-settings: normal;
+    text-transform: none;
+    text-decoration: none;
+    font-size: 40px; 
+}
+
+.f {
+    color: #FAF9F9;
+    text-align: left;
+    justify-self: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
